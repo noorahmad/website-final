@@ -1,8 +1,9 @@
 import React from 'react'
 
 const Navbar = () => 
+
 <header id="header" className="alt">
-	<h1><a href="index.html">Spectral</a></h1>
+	<h1><a href="index.html">Noor Ahmad</a></h1>
 		<nav id="nav">
 			<ul>
 				<li className="special">
@@ -10,10 +11,10 @@ const Navbar = () =>
 					<div id="menu">
 						<ul>
 							<li><a href="index.html">Home</a></li>
-							<li><a href="generic.html">Generic</a></li>
-							<li><a href="elements.html">Elements</a></li>
-							<li><a href="#">Sign Up</a></li>
-							<li><a href="#">Log In</a></li>
+							<li><a href="#one" className="more scrolly">About Me</a></li>
+							<li><a href="#two" className="more scrolly">Portfolio</a></li>
+							<li><a href="#three" className="more scrolly">Competencies</a></li>
+							<li><a href="#footer" className="more scrolly">Contact</a></li>
 						</ul>
 					</div>
 				</li>

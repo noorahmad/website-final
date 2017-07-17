@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router'
 
 const Home = () => 
 <section id="banner">
@@ -7,7 +6,7 @@ const Home = () =>
 		<h2>Noor Ahmad</h2>
 		<p>Software Engineer</p>
 	</div>
-	<a href="#one" className="more scrolly">Get to know me</a>
+	<a href="#one" className="more scrolly">Who am I?</a>
 </section>
 
 export default Home
