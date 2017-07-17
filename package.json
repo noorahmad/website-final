@@ -1,6 +1,7 @@
 {
   "name": "website-final",
   "version": "0.1.0",
+  "homepage": "https://noorahmad.github.io",
   "private": true,
   "dependencies": {
     "react": "^15.6.1",
