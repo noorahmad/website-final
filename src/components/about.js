@@ -2,6 +2,7 @@ import React from 'react'
 
 const About = () =>
 <section className="one wrapper style1 special">
+<a name="one" />
 	<div className="inner">
 		<header className="major">
 			<h2>Arcu aliquet vel lobortis ata nisl<br />
